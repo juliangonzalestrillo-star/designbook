@@ -1,0 +1,1 @@
+playsound minecraft:spacialcity music @a ~ ~ ~ 0.3 1
