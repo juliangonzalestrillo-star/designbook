@@ -175,7 +175,7 @@ export default function Toolbar({
           </PopoverTrigger>
           <PopoverContent className="w-64 bg-white">
             <div className="space-y-2">
-              <p className="text-sm font-light text-blue-900 mb-3">Música de Ambiente</p>
+              <p className="text-sm font-light text-blue-900 mb-3">Música de Ambiente/en desarrollo</p>
               {ambientMusic.map((track) => (
                 <Button
                   key={track.url}

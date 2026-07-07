@@ -41,7 +41,7 @@ export default function SplashScreen() {
               className="text-6xl font-light mb-2 tracking-wide"
               style={{ color: theme.titleColor }}
             >
-              BookDesing
+              BookDesign
             </h1>
             <p className="text-lg font-light tracking-wider" style={{ color: theme.subtitleColor }}>
               Organiza tus ideas de forma creativa
